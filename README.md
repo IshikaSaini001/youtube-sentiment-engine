@@ -2,7 +2,6 @@
 
 An automated data pipeline built in Python to extract, structure, and analyze YouTube comment sections. The tool parses audience discussions, identifies recurring FAQ patterns ("Already Answered" questions), and computes social sentiment scores using rule-based NLP to flag potential PR issues.
 
----
 
 ## 🚀 Key Features
 
@@ -11,7 +10,6 @@ An automated data pipeline built in Python to extract, structure, and analyze Yo
 * **VADER Sentiment Analysis:** Lexicon and rule-based sentiment scoring specifically optimized for social media text, classifying comments into `Positive`, `Neutral`, and `Critical (Negative)` categories.
 * **Defensive Data Handling:** Resilient JSON parsing utilizing defensive dictionary traversal (`.get()`) to safely handle missing fields, edge-case characters, and malformed API responses.
 
----
 
 ## 🛠️ Tech Stack
 
@@ -21,7 +19,6 @@ An automated data pipeline built in Python to extract, structure, and analyze Yo
   * `vaderSentiment` — Rule-based social sentiment analysis
   * `json` & `re` — Standard library data serialization and regex pattern matching
 
----
 
 ## 📁 Project Structure
 
@@ -35,7 +32,6 @@ youtube-sentiment-engine/
 
 ```
 
----
 
 ## ⚙️ Installation & Setup
 
@@ -62,7 +58,6 @@ pip install -r requirements.txt
 
 ```
 
----
 
 ## 🔑 Configuration & Usage
 
@@ -81,9 +76,6 @@ python scraper.py
 
 ```
 
-
-
----
 
 ## 📊 Sample Output Schema
 
@@ -113,7 +105,6 @@ The extracted and analyzed data is structured into a clean JSON output:
 
 ```
 
----
 
 ## 🔍 Limitations & Future Enhancements
 
