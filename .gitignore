@@ -1,0 +1,13 @@
+# Virtual Environments
+workvenv/
+venv/
+env/
+.env
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Local Data / Outputs
+raw_response.json
+processed_comments.json

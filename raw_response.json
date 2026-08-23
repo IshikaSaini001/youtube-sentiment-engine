@@ -1,0 +1,181 @@
+{
+    "kind": "youtube#commentThreadListResponse",
+    "etag": "HfiTXbLHmhU_IDFkDQc9paGNZTE",
+    "nextPageToken": "Z2V0X3JhbmtlZF9zdHJlYW1zLS1Da1FJZ0FRVkY3ZlJPQm82Q2pZSTJGOFFnQVFZQnlJc0YxcGlUYk9LYUNBb2pjbjA4eXY2aEpSN01XZmk2b0d4UTl3b1lZV2pXZkd2b3d3R2toeGhjaDA1T2RjUUJSSUZDTHNnR0FBU0J3aUZJQkFGR0FFU0J3aUhJQkFCR0FBU0JRaUpJQmdBRWdVSWlDQVlBQklGQ0lZZ0dBQVNCUWpBSUJnQUVnVUlxQ0FZQUZBQVdBRQ==",
+    "pageInfo": {
+        "totalResults": 5,
+        "resultsPerPage": 5
+    },
+    "items": [
+        {
+            "kind": "youtube#commentThread",
+            "etag": "oGHzSxfoxbcMfoLLhlxYMS9zZ9o",
+            "id": "Ugz8mwgkizUTPXuETrN4AaABAg",
+            "snippet": {
+                "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                "videoId": "YMTJw1G3yOM",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "FMVn7R6JEx5kBnzHw-_TbfrBJ6Q",
+                    "id": "Ugz8mwgkizUTPXuETrN4AaABAg",
+                    "snippet": {
+                        "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                        "videoId": "YMTJw1G3yOM",
+                        "textDisplay": "Every episode, we try to leave you with something valuable. If this one did that for you, make sure you subscribe to the channel. \nSee you in the next one. 🫡 ~ RS",
+                        "textOriginal": "Every episode, we try to leave you with something valuable. If this one did that for you, make sure you subscribe to the channel. \nSee you in the next one. 🫡 ~ RS",
+                        "authorDisplayName": "@rajshamani",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/qSVJkhoSs6lw5cNMsZAJ8ZAk1pxiewDb_gLtnzOsyM5TWQ6YggQj0eBetOLSxFuJqgxsyQ73NA=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@rajshamani",
+                        "authorChannelId": {
+                            "value": "UCzwCEE_PchiBULMnAJqhGVg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 321,
+                        "publishedAt": "2026-08-15T15:46:01Z",
+                        "updatedAt": "2026-08-15T15:46:01Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 74,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "5DJ_Vod-gp-163IqBVCriPA_cQw",
+            "id": "UgwY2z60xHTFBaPALnl4AaABAg",
+            "snippet": {
+                "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                "videoId": "YMTJw1G3yOM",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "U3kf7lpYJecgxRffc4V5TugS_-A",
+                    "id": "UgwY2z60xHTFBaPALnl4AaABAg",
+                    "snippet": {
+                        "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                        "videoId": "YMTJw1G3yOM",
+                        "textDisplay": "Vote for inviting David goggin",
+                        "textOriginal": "Vote for inviting David goggin",
+                        "authorDisplayName": "@Gourav.iv7",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/HSmvNVgCH3k2mFA5m1fEzQGre4APdmNyIDgJBLDhILgGPIuzQJ2TuPn_h3yiCcEZDwYu2gbK_qQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Gourav.iv7",
+                        "authorChannelId": {
+                            "value": "UCWeFxl4Wzkcvy4n6yaV9nyQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 643,
+                        "publishedAt": "2026-08-15T15:46:04Z",
+                        "updatedAt": "2026-08-15T15:46:04Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 4,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "Sz92miBDTCXvALLe4Ih3RJ70M4c",
+            "id": "UgykAbOrvAQs1TqmefJ4AaABAg",
+            "snippet": {
+                "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                "videoId": "YMTJw1G3yOM",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "ea_7CxOQYiKvqCm19bV_Fssfkd4",
+                    "id": "UgykAbOrvAQs1TqmefJ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                        "videoId": "YMTJw1G3yOM",
+                        "textDisplay": "Next.Respected Tukaram sir.",
+                        "textOriginal": "Next.Respected Tukaram sir.",
+                        "authorDisplayName": "@AnjaliYadav-oy8fd",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/IH-My9lGJ6yKXRfHGFMayI-ZlA8anrFaNoSbzICCpgRlRtx6pdiz98VxYxDWFfkBkLYGV9cxEy0=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@AnjaliYadav-oy8fd",
+                        "authorChannelId": {
+                            "value": "UCIjhMIvnG5zfFXYOobt_kjg"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 74,
+                        "publishedAt": "2026-08-18T14:26:56Z",
+                        "updatedAt": "2026-08-18T14:26:56Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 0,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "56URU-aefUxGcCYMcZjS3IpwD8g",
+            "id": "UgxiWlkvhiCZD7cMLUd4AaABAg",
+            "snippet": {
+                "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                "videoId": "YMTJw1G3yOM",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "QKeiFYbc8OKfmKCBPKWyNOlFFO0",
+                    "id": "UgxiWlkvhiCZD7cMLUd4AaABAg",
+                    "snippet": {
+                        "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                        "videoId": "YMTJw1G3yOM",
+                        "textDisplay": "4 things to learn (till 1 hour of podcast) : \n● open palm gesture\n● be open not closed \n● maximize rather than minimize \n● be close to more valuable thing if want to win any room ...",
+                        "textOriginal": "4 things to learn (till 1 hour of podcast) : \n● open palm gesture\n● be open not closed \n● maximize rather than minimize \n● be close to more valuable thing if want to win any room ...",
+                        "authorDisplayName": "@Farhan90907",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/HbNph1lPOzpDowuoOG6_eyzCt8uxlFEJ20TNLbN7MLFG0G8vhnIJ-nWR2Au9QvnpcZN-ojJ2Lw=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@Farhan90907",
+                        "authorChannelId": {
+                            "value": "UCsUGci9LY80iCaUlI4EhVGA"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 43,
+                        "publishedAt": "2026-08-19T11:34:06Z",
+                        "updatedAt": "2026-08-19T11:34:06Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        },
+        {
+            "kind": "youtube#commentThread",
+            "etag": "l4Wi2jaPMKLQ6ofGOPrOhcot6jE",
+            "id": "Ugz9edM5tNW1fzjDSlZ4AaABAg",
+            "snippet": {
+                "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                "videoId": "YMTJw1G3yOM",
+                "topLevelComment": {
+                    "kind": "youtube#comment",
+                    "etag": "esJ3Rgme9J67xvirhoaNlCTsxW4",
+                    "id": "Ugz9edM5tNW1fzjDSlZ4AaABAg",
+                    "snippet": {
+                        "channelId": "UCzwCEE_PchiBULMnAJqhGVg",
+                        "videoId": "YMTJw1G3yOM",
+                        "textDisplay": "This is the only podcast I felt was worth watching very minute, no bs,  no stories, direct knowledge for people who want to operate in high stakes environment",
+                        "textOriginal": "This is the only podcast I felt was worth watching very minute, no bs,  no stories, direct knowledge for people who want to operate in high stakes environment",
+                        "authorDisplayName": "@amruthv719",
+                        "authorProfileImageUrl": "https://yt3.ggpht.com/ytc/AIdro_nWWEjIplLc-uKKbAzvIF-2nUYb_qurIjAPcO9PccM-UQ=s48-c-k-c0x00ffffff-no-rj",
+                        "authorChannelUrl": "http://www.youtube.com/@amruthv719",
+                        "authorChannelId": {
+                            "value": "UChkiel0hnpwpyQ5iQ5saEvQ"
+                        },
+                        "canRate": true,
+                        "viewerRating": "none",
+                        "likeCount": 66,
+                        "publishedAt": "2026-08-18T03:25:01Z",
+                        "updatedAt": "2026-08-18T03:26:45Z"
+                    }
+                },
+                "canReply": true,
+                "totalReplyCount": 1,
+                "isPublic": true
+            }
+        }
+    ]
+}
