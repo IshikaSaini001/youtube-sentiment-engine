@@ -2,14 +2,13 @@ import os
 import requests
 import re
 import json
-# 1. Import VADER
 from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # Replace with your actual API key
-API_KEY = os.getenv("YOUTUBE_API_KEY", "AIzaSyDfpECcL7gshs8hynaMjhnGGWDLOVcnvf4")
-
-# Test video ID (e.g., from any popular podcast or video)
-# In YouTube URLs: youtube.com/watch?v=VIDEO_ID
+API_KEY = os.getenv("YOUTUBE_API_KEY", "YOUR_API_KEY_HERE")
 VIDEO_ID = "YMTJw1G3yOM"  # Replace with any valid YouTube Video ID
 
 COMMON_FAQ_PATTERNS = {
